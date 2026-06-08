@@ -23,9 +23,8 @@ Which factors appear to be most strongly associated with student academic perfor
 - Regression modeling
 
 ## Key Findings
-- Finding 1 goes here
-- Finding 2 goes here
-- Finding 3 goes here
+- Prior academic performance is the strongest predictor of final grade
+- Study time is not a statistically significant predictor of final grade
 
 ## Deliverables
 - Final report
